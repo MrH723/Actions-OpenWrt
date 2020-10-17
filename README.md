@@ -38,15 +38,15 @@ https://github.com/MrH723/openwrt-packages
 
 1. 先cd进package目录，然后执行
 ```bash
- git clone https://github.com/hzjflying123/openwrt-packages
+ git clone https://github.com/MrH723/openwrt-packages
 ```
 2. 或者添加下面代码到feeds.conf.default文件
 ```bash
- src-git hzjflying123_packages https://github.com/hzjflying123/openwrt-packages
+ src-git hzjflying123_packages https://github.com/MrH723/openwrt-packages
 ```
 3. 先cd进package目录，然后执行
 ```bash
- svn co https://github.com/hzjflying123/openwrt-packages/branches/packages
+ svn co https://github.com/MrH723/openwrt-packages/branches/packages
 ```
 
 |    序号   |     设备平台     |   编译状态及下载链接 |   源码   | 备注说明   |
