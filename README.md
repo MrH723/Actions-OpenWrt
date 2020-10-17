@@ -10,7 +10,6 @@ openwrt-packages — OpenWrt第三方全家桶软件源
 
 https://github.com/MrH723/openwrt-packages
 
-======================
 
 第三方全家桶软件源更新状态
 -------------
