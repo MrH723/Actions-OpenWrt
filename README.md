@@ -91,7 +91,7 @@ OpenWrt DIY — 多设备固件云编译
 
 ## 鸣谢
  
-[P3TERX 的 Action 源码] [![]https://img.shields.io/badge/P3TERX-源码-red.svg)](https://github.com/P3TERX/Actions-OpenWrt)
+[P3TERX 的 Action 源码] [![](https://img.shields.io/badge/P3TERX-源码-red.svg)](https://github.com/P3TERX/Actions-OpenWrt)
 
 [Lean 的 OpenWrt 源码] [![](https://img.shields.io/badge/Lean-源码-orange.svg)](https://github.com/coolsnowwolf/lede)
 
