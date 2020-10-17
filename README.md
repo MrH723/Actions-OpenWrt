@@ -42,7 +42,7 @@ https://github.com/MrH723/openwrt-packages
 ```
 2. 或者添加下面代码到feeds.conf.default文件
 ```bash
- src-git hzjflying123_packages https://github.com/MrH723/openwrt-packages
+ src-git MrH723_packages https://github.com/MrH723/openwrt-packages
 ```
 3. 先cd进package目录，然后执行
 ```bash
