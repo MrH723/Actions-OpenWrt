@@ -28,7 +28,7 @@ https://github.com/MrH723/openwrt-packages
 
 
 -- 关于本软件源的使用方法
-=============
+-------------
 
 ***---建议使用lean源码 [![](https://img.shields.io/badge/Lean-源码-orange.svg)](https://github.com/coolsnowwolf/lede)***
 
