@@ -1,6 +1,6 @@
-![](https://img.shields.io/github/stars/MrH723/Actions-OpenWrt.svg)
-![](https://img.shields.io/github/forks/MrH723/Actions-OpenWrt.svg)
-
+![GitHub Repo stars](https://img.shields.io/github/stars/MrH723/Actions-OpenWrt)
+![GitHub forks](https://img.shields.io/github/forks/MrH723/Actions-OpenWrt?label=Fork)
+![GitHub](https://img.shields.io/github/license/MrH723/Actions-OpenWrt)
 
 OpenWrt DIY — 多设备固件云编译
 ======================
