@@ -32,9 +32,9 @@ https://github.com/MrH723/openwrt-packages
 
 ***---国内常用OpenWrt软件包源码合集，每天两次自动更新***
 
-***---package 分支 18.06 使用***
+***---packages 分支 供18.06 使用***
 
-***---package19.07 分支 19.07 使用***
+***---packages-19.07 分支 供19.07 使用***
 
 1. 先cd进package目录，然后执行
 ```bash
