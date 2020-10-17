@@ -8,8 +8,9 @@ openwrt-packages — OpenWrt第三方全家桶软件源
 脚本使用的第三方全家桶软件源
 -------------
 
+```bash
 https://github.com/MrH723/openwrt-packages
-
+```
 
 第三方全家桶软件源更新状态
 -------------
