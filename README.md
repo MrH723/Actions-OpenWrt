@@ -43,6 +43,8 @@ https://github.com/MrH723/openwrt-packages
 
 - packages-19.07 分支 供19.07 使用
 
+- 我只是个小白搬运工，不保证所有插件都能使用，各位可以自行尝试。
+
 
 
 1. 先cd进package目录，然后执行
