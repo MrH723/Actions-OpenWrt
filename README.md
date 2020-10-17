@@ -15,7 +15,7 @@ https://github.com/MrH723/openwrt-packages
 第三方全家桶软件源更新状态
 -------------
 
-![第三方全家桶软件源更新状态](https://github.com/MrH723/openwrt-packages_action/workflows/Update%20packages/badge.svg)
+![Update packages](https://github.com/MrH723/openwrt-packages_action/workflows/Update%20packages/badge.svg)
 
 -- 关于更新状态的说明
 -------------
