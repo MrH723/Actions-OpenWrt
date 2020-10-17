@@ -22,6 +22,7 @@ https://github.com/MrH723/openwrt-packages
 
 - ![](https://img.shields.io/badge/Update%20packages-failing-red.svg) 所有上游源码无更新,本软件仓库所有软件均为最新版。
 - ![](https://img.shields.io/badge/Update%20packages-passing-green.svg) 上游源码有更新，且已经全部更新到本软件源当中，本软件仓库所有软件均为最新版。
+- 总之无论什么时候都是最新的。
 
 
 
