@@ -30,15 +30,15 @@ https://github.com/MrH723/openwrt-packages
 -- 关于本软件源的使用方法
 -------------
 
--建议使用lean源码 [![](https://img.shields.io/badge/Lean-源码-orange.svg)](https://github.com/coolsnowwolf/lede)
+- 建议使用lean源码 [![](https://img.shields.io/badge/Lean-源码-orange.svg)](https://github.com/coolsnowwolf/lede)
 
--不建议 Fork (因为你Fork 过去不会自动更新）
+- 不建议 Fork (因为你Fork 过去不会自动更新）
 
--国内常用OpenWrt软件包源码合集，每天两次自动更新
+- 国内常用OpenWrt软件包源码合集，每天两次自动更新
 
--packages 分支 供18.06 使用
+- packages 分支 供18.06 使用
 
--packages-19.07 分支 供19.07 使用
+- packages-19.07 分支 供19.07 使用
 
 
 
