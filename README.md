@@ -8,17 +8,17 @@
 openwrt-packages — OpenWrt第三方全家桶软件源
 ======================
 
-编译脚本使用的第三方全家桶软件源
+--编译脚本使用的第三方全家桶软件源
 -------------
 
 ```bash
 https://github.com/MrH723/openwrt-packages
 ```
 
-第三方全家桶软件源更新状态
+--第三方全家桶软件源更新状态
 -------------
 
-![Update packages](https://github.com/MrH723/openwrt-packages_action/workflows/Update%20packages/badge.svg)
+- ![Update packages](https://github.com/MrH723/openwrt-packages_action/workflows/Update%20packages/badge.svg)
 
 -- 关于更新状态的说明
 -------------
@@ -81,7 +81,7 @@ Actions-OpenWrt — 多设备固件自动云编译
 | 11 |   [![](https://img.shields.io/badge/OpenWrt-NanoPi%20NEO2-lightgrey.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+NanoPi+NEO2+OpenWrt%22)    | [![Build NanoPi NEO2 OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20NanoPi%20NEO2%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+NanoPi+NEO2+OpenWrt%22) |
 | 12 |   [![](https://img.shields.io/badge/OpenWrt-%E5%B0%8F%E7%B1%B3%20R3P-yellowgreen.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+Mi+R3P+OpenWrt%22)    | [![Build Mi R3P OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20Mi%20R3P%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+Mi+R3P+OpenWrt%22) |
 | 13 |   [![](https://img.shields.io/badge/OpenWrt-K3-lightgrey.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+K3+OpenWrt%22)    | [![Build K3 OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20K3%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+K3+OpenWrt%22) |
-
+| 14 |   [![](https://img.shields.io/badge/OpenWrt-K2T-yellowgreen.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+K2T+OpenWrt%22)    | [![Build K2T OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20K2T%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+K2T+OpenWrt%22) |
 
 
 ## 鸣谢
