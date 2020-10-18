@@ -66,10 +66,10 @@ https://github.com/MrH723/openwrt-packages
 Actions-OpenWrt — 多设备固件自动云编译
 ======================
 
-|    序号   |     平台-设备名称     |   编译状态及下载链接 |  
+|    序号   |     平台-设备名称     |   编译状态+下载链接 |  
 | :-----------------: | :-------------: |:-----------------: | 
-| 1 |   [![](https://img.shields.io/badge/OpenWrt-x86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80-lightgrey.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3Ax86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80.yml)    | [![x86多拨极简.yml](https://github.com/MrH723/Actions-OpenWrt/workflows/x86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80.yml/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3Ax86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80.yml) |
-
+| 1 |   [![](https://img.shields.io/badge/OpenWrt-x86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80%E7%89%88-lightgrey.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3Ax86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80.yml)    | [![x86多拨极简.yml](https://github.com/MrH723/Actions-OpenWrt/workflows/x86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80.yml/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3Ax86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80.yml) |
+| 2 |   [![](https://img.shields.io/badge/OpenWrt-x86%E6%97%81%E8%B7%AF%E7%94%B1%E6%9E%81%E7%AE%80%E7%89%88-yellowgreen.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3Ax86%E6%97%81%E8%B7%AF%E7%94%B1%E6%9E%81%E7%AE%80.yml)    | [![x86旁路由极简.yml](https://github.com/MrH723/Actions-OpenWrt/workflows/x86%E6%97%81%E8%B7%AF%E7%94%B1%E6%9E%81%E7%AE%80.yml/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3Ax86%E6%97%81%E8%B7%AF%E7%94%B1%E6%9E%81%E7%AE%80.yml) |
 
 ## 鸣谢
  
