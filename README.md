@@ -108,4 +108,4 @@ Actions-OpenWrt — 多设备固件自动云编译
 [Lean 的 OpenWrt 源码] [![](https://img.shields.io/badge/Lean-源码-orange.svg)](https://github.com/coolsnowwolf/lede)
 
 ## 特别鸣谢
-[Lienol 的 OpenWrt 源码] [![](https://img.shields.io/badge/Lienol-%E6%BA%90%E7%A0%81-orange.svg)] (https://github.com/Lienol)
+[Lienol 的 OpenWrt 源码] [![](https://img.shields.io/badge/Lienol-%E6%BA%90%E7%A0%81-orange.svg)](https://github.com/Lienol)
