@@ -101,20 +101,22 @@ Actions-OpenWrt — 多设备固件自动云编译
 - x86旁路由极简版为自用，建议配合爱快使用，仅包含（pw，S，去广告，主题只加入了默认主题以及自己比较喜欢的edge主题）
 - x86全家桶固件正在处理中，由于部分插件冲突需要些时间排雷。
 
---赞助
--------------
+赞助
+======================
 - 您要是觉得好用不错的话，不妨考虑赞助一下本项目。
 
 <img src="https://github.com/MrH723/Actions-OpenWrt/blob/main/img/alipay.jpg?raw=true" width="160" height="180" />
 
 
-## 鸣谢
+鸣谢
+======================
  
 [P3TERX 的 Action 源码] [![](https://img.shields.io/badge/P3TERX-源码-orange.svg)](https://github.com/P3TERX/Actions-OpenWrt)
 
 [Lean 的 OpenWrt 源码] [![](https://img.shields.io/badge/Lean-源码-orange.svg)](https://github.com/coolsnowwolf/lede)
 
-## 特别鸣谢
+特别鸣谢
+======================
 [Lienol] [![](https://img.shields.io/badge/Lienol-%E6%BA%90%E7%A0%81-orange.svg)](https://github.com/Lienol)
 
 [Kenzok8] [![](https://img.shields.io/badge/Kenzok8-%E6%BA%90%E7%A0%81-orange.svg)](https://github.com/kenzok8)
