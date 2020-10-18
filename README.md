@@ -8,24 +8,18 @@
 openwrt-packages — OpenWrt第三方全家桶软件源
 ======================
 
---编译脚本使用的第三方全家桶软件源
+--编译脚本使用的第三方全家桶软件仓库
 -------------
 
 ```bash
 https://github.com/MrH723/openwrt-packages
 ```
 
---第三方全家桶软件源更新状态
+-- 关于第三方全家桶软件仓库更新的说明
 -------------
 
-- ![Update packages](https://github.com/MrH723/openwrt-packages_action/workflows/Update%20packages/badge.svg)
-
--- 关于更新状态的说明
--------------
-
-- ![](https://img.shields.io/badge/Update%20packages-failing-red.svg) 所有上游源码无更新,本软件仓库所有软件均为最新版。
-- ![](https://img.shields.io/badge/Update%20packages-passing-green.svg) 上游源码有更新，且已经全部更新到本软件源当中，本软件仓库所有软件均为最新版。
-- 总之无论什么时候都是最新的。
+- 每日两次自动拉取更新所有上游源码至上方软件仓库，所以此软件仓库永远都是最新的。
+- 云编译脚本会调用此仓库软件编译OpenWrt固件，每日一次编译。
 
 
 
