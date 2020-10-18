@@ -1,6 +1,6 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/MrH723/Actions-OpenWrt)
-![GitHub forks](https://img.shields.io/github/forks/MrH723/Actions-OpenWrt?label=Fork)
-![GitHub](https://img.shields.io/github/license/MrH723/Actions-OpenWrt)
+![GitHub Repo stars](https://img.shields.io/github/stars/MrH723/Actions-OpenWrt?color=Green&label=Stars&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/MrH723/Actions-OpenWrt?color=Green&label=Fork&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/MrH723/Actions-OpenWrt?style=for-the-badge)
 
 第一部分
 ======================
