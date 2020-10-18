@@ -104,7 +104,7 @@ Actions-OpenWrt — 多设备固件自动云编译
 --赞助
 -------------
 
-<img src="https://github.com/MrH723/Actions-OpenWrt/blob/main/img/alipay.jpg?raw=true" width="150" height="150" />
+<img src="https://github.com/MrH723/Actions-OpenWrt/blob/main/img/alipay.jpg?raw=true" width="1650" height="180" />
 
 
 ## 鸣谢
