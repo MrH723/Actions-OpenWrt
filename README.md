@@ -63,7 +63,7 @@ https://github.com/MrH723/openwrt-packages
 第二部分
 ======================
 
-OpenWrt DIY — 多设备固件云编译
+Actions-OpenWrt — 多设备固件云编译
 ======================
 
 |    序号   |     设备平台     |   编译状态及下载链接 |   源码   | 备注说明   |
