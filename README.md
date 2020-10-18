@@ -129,6 +129,3 @@ Actions-OpenWrt — 多设备固件自动云编译
 ***- 请务必遵从‘不涉及政治，不涉及宗教，不涉及黄赌毒’的三不原则***
 
 
-<link rel="stylesheet" href="/css/prettydropdowns.css">
-<script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
-<script src="/js/jquery.prettydropdowns.js"></script>
