@@ -63,7 +63,7 @@ https://github.com/MrH723/openwrt-packages
 第二部分
 ======================
 
-Actions-OpenWrt — 多设备固件云编译
+Actions-OpenWrt — 多设备固件自动云编译
 ======================
 
 |    序号   |     平台-设备名称     |   编译状态及下载链接 |  
