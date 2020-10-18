@@ -68,7 +68,7 @@ Actions-OpenWrt — 多设备固件云编译
 
 |    序号   |     设备平台     |   编译状态及下载链接 |  
 | :-----------------: | :-------------: |:-----------------: | 
-| 1 |   [![](https://img.shields.io/badge/OpenWrt-x86_64_(64位)-FFFFFF.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2864bit%29+OpenWrt%22)    | [![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20X86(64bit)%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2864bit%29+OpenWrt%22) |
+| 1 |   [![](https://img.shields.io/badge/OpenWrt-x86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80-lightgrey.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3Ax86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80.yml)    | [![](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3Ax86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80.yml) |
 
 
 ## 鸣谢
