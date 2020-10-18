@@ -92,7 +92,7 @@ Actions-OpenWrt — 多设备固件自动云编译
 | 19 |   [![](https://img.shields.io/badge/OpenWrt-%E6%98%9F%E9%99%85%E5%AE%9D%E7%9B%92%20CM520-lightgrey.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+%E6%98%9F%E9%99%85%E5%AE%9D%E7%9B%92+CM520+OpenWrt%22)    | [![Build 星际宝盒 CM520 OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20%E6%98%9F%E9%99%85%E5%AE%9D%E7%9B%92%20CM520%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+%E6%98%9F%E9%99%85%E5%AE%9D%E7%9B%92+CM520+OpenWrt%22) |
 | 20 |   [![](https://img.shields.io/badge/OpenWrt-%E6%9E%81%E8%B7%AF%E7%94%B1%20B70-yellowgreen.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+HiWiFi+B70+OpenWrt%22)    | [![Build HiWiFi B70 OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20HiWiFi%20B70%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+HiWiFi+B70+OpenWrt%22) |
 
--- 支持的设备平台以及固件下载地址
+-- 关于自动编译固件的说明
 -------------
 
 - 不建议Fork，按需下载即可。
