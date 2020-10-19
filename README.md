@@ -12,6 +12,7 @@
    + [![](https://img.shields.io/badge/-云编译固件-green.svg)](#云编译固件-)
       + [![](https://img.shields.io/badge/-设备及固件列表下载-lightgrey.svg)](#设备及固件列表下载-)
       + [![](https://img.shields.io/badge/-自动编译说明-lightgrey.svg)](#自动编译说明-)
+      + [![](https://img.shields.io/badge/-最近更新-lightgrey.svg)](#最近更新-)
    + [![](https://img.shields.io/badge/-赞助项目-green.svg)](#赞助项目-)
    + [![](https://img.shields.io/badge/-机场推荐-green.svg)](#机场推荐-)
    + [![](https://img.shields.io/badge/-鸣谢-green.svg)](#鸣谢-)
