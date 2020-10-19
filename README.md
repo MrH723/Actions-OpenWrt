@@ -11,7 +11,7 @@
       + [![](https://img.shields.io/badge/-软件库使用方法-lightgrey.svg)](#软件库使用方法-)
    + [![](https://img.shields.io/badge/-云编译固件-green.svg)](#云编译固件-)
       + [![](https://img.shields.io/badge/-设备及固件列表下载-lightgrey.svg)](#设备及固件列表下载-)
-
+      + [![](https://img.shields.io/badge/-自动编译说明-lightgrey.svg)](#自动编译说明-)
 
 
 第一部分
@@ -100,7 +100,7 @@ Actions-OpenWrt — 多设备固件自动云编译[![](https://img.shields.io/ba
 | 21 |   [![](https://img.shields.io/badge/OpenWrt-Amlogic%20S905X3-lightgrey.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+Amlogic+S905X3+OpenWrt%22)    | [![Build Amlogic S905X3 OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20Amlogic%20S905X3%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+Amlogic+S905X3+OpenWrt%22) |
 | 22 |   [![](https://img.shields.io/badge/OpenWrt-%E9%A6%99%E6%A9%99%E6%B4%BE%20Zero%20Plus-yellowgreen.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+%E9%A6%99%E6%A9%99%E6%B4%BE+Zero+Plus+OpenWrt%22)    | [![Build 香橙派 Zero Plus OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20%E9%A6%99%E6%A9%99%E6%B4%BE%20Zero%20Plus%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+%E9%A6%99%E6%A9%99%E6%B4%BE+Zero+Plus+OpenWrt%22) |
 
--- 关于自动编译固件的说明
+-- 关于自动编译固件的说明[![](https://img.shields.io/badge/-自动编译说明-lightgrey.svg)](#自动编译说明-)
 -------------
 
 - 不建议Fork，按需下载即可。
