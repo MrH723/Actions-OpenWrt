@@ -2,7 +2,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/MrH723/Actions-OpenWrt?color=Blue&label=Fork&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/MrH723/Actions-OpenWrt?color=Blue&style=for-the-badge)
 
-[![](https://img.shields.io/badge/-目录-blue.svg)]
+[![](https://img.shields.io/badge/-目录-blue.svg)](#目录-)
 ======================
 [![](https://img.shields.io/badge/-全家桶软件库-green.svg)](https://github.com/MrH723/Actions-OpenWrt#openwrt-packages--openwrt%E7%AC%AC%E4%B8%89%E6%96%B9%E5%85%A8%E5%AE%B6%E6%A1%B6%E8%BD%AF%E4%BB%B6%E6%BA%90)
 
