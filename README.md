@@ -24,14 +24,14 @@
 openwrt-packages — OpenWrt第三方全家桶软件库 [![](https://img.shields.io/badge/-全家桶软件库-green.svg)](#全家桶软件库-)
 ======================
 
---编译脚本使用的第三方全家桶软件仓库[![](https://img.shields.io/badge/-软件库地址-lightgrey.svg)](#软件库地址-)
+--编译脚本使用的第三方全家桶软件仓库 [![](https://img.shields.io/badge/-软件库地址-lightgrey.svg)](#软件库地址-)
 -------------
 
 ```bash
 https://github.com/MrH723/openwrt-packages
 ```
 
--- 关于第三方全家桶软件仓库更新的说明[![](https://img.shields.io/badge/-软件库更新说明-lightgrey.svg)](#软件库更新说明-)
+-- 关于第三方全家桶软件仓库更新的说明 [![](https://img.shields.io/badge/-软件库更新说明-lightgrey.svg)](#软件库更新说明-)
 -------------
 
 - 每日两次自动拉取更新所有上游源码至上方软件仓库，所以此软件仓库永远都是最新的。
@@ -40,7 +40,7 @@ https://github.com/MrH723/openwrt-packages
 
 
 
--- 关于本软件仓库的使用方法[![](https://img.shields.io/badge/-软件库使用方法-lightgrey.svg)](#软件库使用方法-)
+-- 关于本软件仓库的使用方法 [![](https://img.shields.io/badge/-软件库使用方法-lightgrey.svg)](#软件库使用方法-)
 -------------
 
 - 建议使用lean源码 [![](https://img.shields.io/badge/Lean-源码-orange.svg)](https://github.com/coolsnowwolf/lede)
@@ -73,10 +73,10 @@ https://github.com/MrH723/openwrt-packages
 第二部分
 ======================
 
-Actions-OpenWrt — 多设备固件自动云编译[![](https://img.shields.io/badge/-云编译固件-green.svg)](#云编译固件-)
+Actions-OpenWrt — 多设备固件自动云编译 [![](https://img.shields.io/badge/-云编译固件-green.svg)](#云编译固件-)
 ======================
 
--- 支持的设备平台以及固件下载地址[![](https://img.shields.io/badge/-设备及固件列表下载-lightgrey.svg)](#设备及固件列表下载-)
+-- 支持的设备平台以及固件下载地址 [![](https://img.shields.io/badge/-设备及固件列表下载-lightgrey.svg)](#设备及固件列表下载-)
 -------------
 
 |    序号   |     平台-设备名称     |   编译状态+下载链接 |  
@@ -104,7 +104,7 @@ Actions-OpenWrt — 多设备固件自动云编译[![](https://img.shields.io/ba
 | 21 |   [![](https://img.shields.io/badge/OpenWrt-Amlogic%20S905X3-lightgrey.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+Amlogic+S905X3+OpenWrt%22)    | [![Build Amlogic S905X3 OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20Amlogic%20S905X3%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+Amlogic+S905X3+OpenWrt%22) |
 | 22 |   [![](https://img.shields.io/badge/OpenWrt-%E9%A6%99%E6%A9%99%E6%B4%BE%20Zero%20Plus-yellowgreen.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+%E9%A6%99%E6%A9%99%E6%B4%BE+Zero+Plus+OpenWrt%22)    | [![Build 香橙派 Zero Plus OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20%E9%A6%99%E6%A9%99%E6%B4%BE%20Zero%20Plus%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+%E9%A6%99%E6%A9%99%E6%B4%BE+Zero+Plus+OpenWrt%22) |
 
--- 关于自动编译固件的说明[![](https://img.shields.io/badge/-自动编译说明-lightgrey.svg)](#自动编译说明-)
+-- 关于自动编译固件的说明 [![](https://img.shields.io/badge/-自动编译说明-lightgrey.svg)](#自动编译说明-)
 -------------
 
 - 不建议Fork，按需下载即可。
@@ -113,22 +113,22 @@ Actions-OpenWrt — 多设备固件自动云编译[![](https://img.shields.io/ba
 - x86旁路由极简版为自用，建议配合爱快使用，仅包含（pw，S，去广告，主题只加入了默认主题以及自己比较喜欢的edge主题）
 - x86全家桶固件正在处理中，由于部分插件冲突需要些时间排雷。
 
--- 最近更新[![](https://img.shields.io/badge/-最近更新-lightgrey.svg)](#最近更新-)
+-- 最近更新 [![](https://img.shields.io/badge/-最近更新-lightgrey.svg)](#最近更新-)
 -------------
 - 更新 P3TERX 大大的编译源码[![](https://img.shields.io/badge/P3TERX-源码-orange.svg)](https://github.com/P3TERX/Actions-OpenWrt)，解决编译提示 set-env 即将被禁用
 
-赞助[![](https://img.shields.io/badge/-赞助项目-green.svg)](#赞助项目-)
+赞助 [![](https://img.shields.io/badge/-赞助项目-green.svg)](#赞助项目-)
 ======================
 - 您要是觉得好用不错的话，不妨考虑赞助一下本项目。
 
 <img src="https://github.com/MrH723/Actions-OpenWrt/blob/main/img/alipay.jpg?raw=true" width="160" height="180" />
 
-我用过的机场[![](https://img.shields.io/badge/-机场推荐-green.svg)](#机场推荐-)
+我用过的机场 [![](https://img.shields.io/badge/-机场推荐-green.svg)](#机场推荐-)
 ======================
 
 [我用过的机场]  [![](https://img.shields.io/badge/%E5%85%A8IPLC%E6%9C%BA%E5%9C%BA-iplc.vip-brightgreen.svg)](https://portal.iplc-j.pw/aff.php?aff=1228)
 
-鸣谢[![](https://img.shields.io/badge/-鸣谢-green.svg)](#鸣谢-)
+鸣谢 [![](https://img.shields.io/badge/-鸣谢-green.svg)](#鸣谢-)
 ======================
  
 [P3TERX 的 Action 源码] [![](https://img.shields.io/badge/P3TERX-源码-orange.svg)](https://github.com/P3TERX/Actions-OpenWrt)
@@ -142,7 +142,7 @@ Actions-OpenWrt — 多设备固件自动云编译[![](https://img.shields.io/ba
 [Kenzok8] [![](https://img.shields.io/badge/Kenzok8-%E6%BA%90%E7%A0%81-orange.svg)](https://github.com/kenzok8)
 
 
-免责声明[![](https://img.shields.io/badge/-免责声明-green.svg)](#免责声明-)
+免责声明 [![](https://img.shields.io/badge/-免责声明-green.svg)](#免责声明-)
 ======================
 ***- 由于本人小白，有可能使用到了大神的代码，没有放进鸣谢名单里的，请联系添加，再次感谢各位大神的贡献***
 
