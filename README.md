@@ -79,7 +79,7 @@ Actions-OpenWrt — 多设备固件自动云编译 [![](https://img.shields.io/b
 -- 支持的设备平台以及固件下载地址 [![](https://img.shields.io/badge/-设备及固件列表下载-lightgrey.svg)](#设备及固件列表下载-)
 -------------
 
-|    序号   |     平台-设备名称     |   编译状态+下载链接 |  
+|    序号   |     平台+设备名称     |   编译状态+下载链接 |  
 | :-----------------: | :-------------: |:-----------------: | 
 | 1 |   [![](https://img.shields.io/badge/OpenWrt-x86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80%E7%89%88-lightgrey.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22x86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80+OpenWrt%22)    | [![x86多拨极简 OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/x86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22x86%E5%A4%9A%E6%8B%A8%E6%9E%81%E7%AE%80+OpenWrt%22) |
 | 2 |   [![](https://img.shields.io/badge/OpenWrt-x86%E6%97%81%E8%B7%AF%E7%94%B1%E6%9E%81%E7%AE%80%E7%89%88-yellowgreen.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22x86%E6%97%81%E8%B7%AF%E7%94%B1%E6%9E%81%E7%AE%80+OpenWrt%22)    | [![x86旁路由极简 OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/x86%E6%97%81%E8%B7%AF%E7%94%B1%E6%9E%81%E7%AE%80%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22x86%E6%97%81%E8%B7%AF%E7%94%B1%E6%9E%81%E7%AE%80+OpenWrt%22) |
