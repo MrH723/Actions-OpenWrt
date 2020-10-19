@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: x86旁路由极简.yml
+name: x86旁路由极简 OpenWrt
 
 on:
   repository_dispatch:
