@@ -12,7 +12,10 @@
    + [![](https://img.shields.io/badge/-云编译固件-green.svg)](#云编译固件-)
       + [![](https://img.shields.io/badge/-设备及固件列表下载-lightgrey.svg)](#设备及固件列表下载-)
       + [![](https://img.shields.io/badge/-自动编译说明-lightgrey.svg)](#自动编译说明-)
-
+   + [![](https://img.shields.io/badge/-赞助项目-green.svg)](#赞助项目-)
+   + [![](https://img.shields.io/badge/-机场推荐-green.svg)](#机场推荐-)
+   + [![](https://img.shields.io/badge/-鸣谢-green.svg)](#鸣谢-)
+   + [![](https://img.shields.io/badge/-免责声明-green.svg)](#免责声明-)
 
 第一部分
 ======================
@@ -109,18 +112,18 @@ Actions-OpenWrt — 多设备固件自动云编译[![](https://img.shields.io/ba
 - x86旁路由极简版为自用，建议配合爱快使用，仅包含（pw，S，去广告，主题只加入了默认主题以及自己比较喜欢的edge主题）
 - x86全家桶固件正在处理中，由于部分插件冲突需要些时间排雷。
 
-赞助
+赞助[![](https://img.shields.io/badge/-赞助项目-green.svg)](#赞助项目-)
 ======================
 - 您要是觉得好用不错的话，不妨考虑赞助一下本项目。
 
 <img src="https://github.com/MrH723/Actions-OpenWrt/blob/main/img/alipay.jpg?raw=true" width="160" height="180" />
 
-我用过的机场
+我用过的机场[![](https://img.shields.io/badge/-机场推荐-green.svg)](#机场推荐-)
 ======================
 
 [我用过的机场]  [![](https://img.shields.io/badge/%E5%85%A8IPLC%E6%9C%BA%E5%9C%BA-iplc.vip-brightgreen.svg)](https://portal.iplc-j.pw/aff.php?aff=1228)
 
-鸣谢
+鸣谢[![](https://img.shields.io/badge/-鸣谢-green.svg)](#鸣谢-)
 ======================
  
 [P3TERX 的 Action 源码] [![](https://img.shields.io/badge/P3TERX-源码-orange.svg)](https://github.com/P3TERX/Actions-OpenWrt)
@@ -134,7 +137,7 @@ Actions-OpenWrt — 多设备固件自动云编译[![](https://img.shields.io/ba
 [Kenzok8] [![](https://img.shields.io/badge/Kenzok8-%E6%BA%90%E7%A0%81-orange.svg)](https://github.com/kenzok8)
 
 
-免责声明
+免责声明[![](https://img.shields.io/badge/-免责声明-green.svg)](#免责声明-)
 ======================
 ***- 由于本人小白，有可能使用到了大神的代码，没有放进鸣谢名单里的，请联系添加，再次感谢各位大神的贡献***
 
