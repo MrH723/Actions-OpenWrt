@@ -7,6 +7,12 @@
    + [![](https://img.shields.io/badge/-全家桶软件库-green.svg)](#全家桶软件库-)
 
       + [![](https://img.shields.io/badge/-软件库地址-lightgrey.svg)](#软件库地址-)
+      + [![](https://img.shields.io/badge/-软件库更新说明-lightgrey.svg)](#软件库更新说明-)
+      + [![](https://img.shields.io/badge/-软件库使用方法-lightgrey.svg)](#软件库使用方法-)
+   + [![](https://img.shields.io/badge/-云编译固件-green.svg)](#云编译固件-)
+      + [![](https://img.shields.io/badge/-设备及固件列表下载-lightgrey.svg)](#设备及固件列表下载-)
+
+
 
 第一部分
 ======================
@@ -21,7 +27,7 @@ openwrt-packages — OpenWrt第三方全家桶软件库 [![](https://img.shields
 https://github.com/MrH723/openwrt-packages
 ```
 
--- 关于第三方全家桶软件仓库更新的说明
+-- 关于第三方全家桶软件仓库更新的说明[![](https://img.shields.io/badge/-软件库更新说明-lightgrey.svg)](#软件库更新说明-)
 -------------
 
 - 每日两次自动拉取更新所有上游源码至上方软件仓库，所以此软件仓库永远都是最新的。
@@ -30,7 +36,7 @@ https://github.com/MrH723/openwrt-packages
 
 
 
--- 关于本软件仓库的使用方法
+-- 关于本软件仓库的使用方法[![](https://img.shields.io/badge/-软件库使用方法-lightgrey.svg)](#软件库使用方法-)
 -------------
 
 - 建议使用lean源码 [![](https://img.shields.io/badge/Lean-源码-orange.svg)](https://github.com/coolsnowwolf/lede)
@@ -63,10 +69,10 @@ https://github.com/MrH723/openwrt-packages
 第二部分
 ======================
 
-Actions-OpenWrt — 多设备固件自动云编译
+Actions-OpenWrt — 多设备固件自动云编译[![](https://img.shields.io/badge/-云编译固件-green.svg)](#云编译固件-)
 ======================
 
--- 支持的设备平台以及固件下载地址
+-- 支持的设备平台以及固件下载地址[![](https://img.shields.io/badge/-设备及固件列表下载-lightgrey.svg)](#设备及固件列表下载-)
 -------------
 
 |    序号   |     平台-设备名称     |   编译状态+下载链接 |  
