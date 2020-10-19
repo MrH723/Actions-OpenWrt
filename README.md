@@ -114,7 +114,7 @@ Actions-OpenWrt — 多设备固件自动云编译[![](https://img.shields.io/ba
 
 -- 最近更新[![](https://img.shields.io/badge/-最近更新-lightgrey.svg)](#最近更新-)
 -------------
-- 更新 P3TERX 大大的编译源码，解决编译提示 set-env 即将被禁用
+- 更新 P3TERX 大大的编译源码[![](https://img.shields.io/badge/P3TERX-源码-orange.svg)](https://github.com/P3TERX/Actions-OpenWrt)，解决编译提示 set-env 即将被禁用
 
 赞助[![](https://img.shields.io/badge/-赞助项目-green.svg)](#赞助项目-)
 ======================
