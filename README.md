@@ -125,7 +125,7 @@ Actions-OpenWrt — 多设备固件自动云编译 [![](https://img.shields.io/b
 我用过的机场 [![](https://img.shields.io/badge/-机场推荐-green.svg)](#机场推荐-)
 ======================
 
-[我用过的机场]  [![](https://img.shields.io/badge/%E5%85%A8IPLC%E6%9C%BA%E5%9C%BA-iplc.vip-brightgreen.svg)](https://portal.iplc-j.pw/aff.php?aff=1228)
+[我用过的机场]  [![](https://img.shields.io/badge/全IPLC节点机场-iplc.vip-brightgreen.svg)](https://portal.iplc-j.pw/aff.php?aff=1228)
 
 鸣谢 [![](https://img.shields.io/badge/-鸣谢-green.svg)](#鸣谢-)
 ======================
