@@ -129,6 +129,14 @@ Actions-OpenWrt — 多设备固件自动云编译 [![](https://img.shields.io/b
 
 [iplc.vip]  [![](https://img.shields.io/badge/全IPLC节点机场-iplc.vip-brightgreen.svg)](https://portal.iplc-j.pw/aff.php?aff=1228)
 
+<details>
+<summary>IPLC.vip 节点测速</summary>
+<img src="https://github.com/MrH723/Actions-OpenWrt/blob/main/img/speed.png?raw=true" width="890" hight="1080">
+   
+   *测试结果来自bigdongdong
+</details>
+
+
 - 心阶，入门级别机场，也是我第一个使用的机场，性价比高，有时会挂。
 
 [心阶]  [![](https://img.shields.io/badge/心阶-xinjiecloud-brightgreen.svg)](https://www.xinjiecloud.vip/auth/register?code=e9yu)
