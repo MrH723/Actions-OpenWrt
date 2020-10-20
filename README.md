@@ -125,14 +125,17 @@ Actions-OpenWrt — 多设备固件自动云编译 [![](https://img.shields.io/b
 
 我用过的机场 [![](https://img.shields.io/badge/-机场推荐-green.svg)](#机场推荐-)
 ======================
-- 最好的机场，没有之一，全IPLC节点，全1倍率，无倍率套路，价格稍高，但绝对物超所值！
+- iplc.vip, 最好的机场，没有之一，全IPLC节点，全1倍率，无倍率套路，价格稍高，但绝对物超所值！
 
 [iplc.vip]  [![](https://img.shields.io/badge/全IPLC节点机场-iplc.vip-brightgreen.svg)](https://portal.iplc-j.pw/aff.php?aff=1228)
 
-- 入门级别机场，也是我第一个使用的机场，性价比高，有时会挂。
+- 心阶，入门级别机场，也是我第一个使用的机场，性价比高，有时会挂。
 
 [心阶]  [![](https://img.shields.io/badge/心阶-xinjiecloud-brightgreen.svg)](https://www.xinjiecloud.vip/auth/register?code=e9yu)
 
+- 西部世界，不少的trojan节点，但是速度一般。有时会挂。想要使用trojan协议的朋友可以酌情斟酌购买
+
+[西部世界]  [![](https://img.shields.io/badge/西部世界-westworldss-brightgreen.svg)](https://xbnet.site/i/iv201020/KKPgMHE)
 
 鸣谢 [![](https://img.shields.io/badge/-鸣谢-green.svg)](#鸣谢-)
 ======================
