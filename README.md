@@ -2,25 +2,10 @@
 ![GitHub forks](https://img.shields.io/github/forks/MrH723/Actions-OpenWrt?color=Blue&label=Fork&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/MrH723/Actions-OpenWrt?color=Blue&style=for-the-badge)
 
-+ [![](https://img.shields.io/badge/-目录-blue.svg)](#目录-)
-
-   + [![](https://img.shields.io/badge/-全家桶软件库-green.svg)](#全家桶软件库-)
-
-      + [![](https://img.shields.io/badge/-软件库地址-lightgrey.svg)](#软件库地址-)
-      + [![](https://img.shields.io/badge/-软件库更新说明-lightgrey.svg)](#软件库更新说明-)
-      + [![](https://img.shields.io/badge/-软件库使用方法-lightgrey.svg)](#软件库使用方法-)
-   + [![](https://img.shields.io/badge/-云编译固件-green.svg)](#云编译固件-)
-      + [![](https://img.shields.io/badge/-设备及固件列表下载-lightgrey.svg)](#设备及固件列表下载-)
-      + [![](https://img.shields.io/badge/-自动编译说明-lightgrey.svg)](#自动编译说明-)
-      + [![](https://img.shields.io/badge/-最近更新-lightgrey.svg)](#最近更新-)
-   + [![](https://img.shields.io/badge/-赞助项目-green.svg)](#赞助项目-)
-   + [![](https://img.shields.io/badge/-机场推荐-green.svg)](#机场推荐-)
-   + [![](https://img.shields.io/badge/-鸣谢-green.svg)](#鸣谢-)
-   + [![](https://img.shields.io/badge/-免责声明-green.svg)](#免责声明-)
 
 <details>
-<summary>+ [![](https://img.shields.io/badge/-目录-blue.svg)](#目录-)</summary>
-
+<summary>项目目录</summary>
+======================
 
    + [![](https://img.shields.io/badge/-全家桶软件库-green.svg)](#全家桶软件库-)
 
@@ -36,6 +21,7 @@
    + [![](https://img.shields.io/badge/-鸣谢-green.svg)](#鸣谢-)
    + [![](https://img.shields.io/badge/-免责声明-green.svg)](#免责声明-)
 </details>
+
 
 第一部分
 ======================
