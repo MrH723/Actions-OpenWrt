@@ -138,7 +138,7 @@ Actions-OpenWrt — 多设备固件自动云编译 [![](https://img.shields.io/b
 <summary>IPLC.vip 节点测速</summary>
 <img src="https://github.com/MrH723/Actions-OpenWrt/blob/main/img/speed.png?raw=true" width="890" hight="1080">
    
-   *测试结果来自bigdongdong [![](https://img.shields.io/badge/bigdongdong-Github-orange.svg)](https://github.com/bigdongdongCLUB)
+   *以上测试结果来自bigdongdong [![](https://img.shields.io/badge/bigdongdong-Github-orange.svg)](https://github.com/bigdongdongCLUB)
 </details>
 
 
