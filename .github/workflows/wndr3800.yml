@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Netgear WNDR3800 OpenWrt
+name: Build Netgear WNDR3800 OpenWrt
 
 on:
   repository_dispatch:
