@@ -109,6 +109,7 @@ Actions-OpenWrt — 多设备固件自动云编译 [![](https://img.shields.io/b
 | 21 |   [![](https://img.shields.io/badge/OpenWrt-Amlogic%20S905X3-lightgrey.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+Amlogic+S905X3+OpenWrt%22)    | [![Build Amlogic S905X3 OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20Amlogic%20S905X3%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+Amlogic+S905X3+OpenWrt%22) |
 | 22 |   [![](https://img.shields.io/badge/OpenWrt-NetgearWNDR3800-yellowgreen.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Netgear+WNDR3800+OpenWrt%22)    | [![Build Netgear WNDR3800 OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20Netgear%20WNDR3800%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Netgear+WNDR3800+OpenWrt%22) |
 | 23 |   [![](https://img.shields.io/badge/OpenWrt-LinksysWRT1900-lightgrey.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+Linksys+WRT1900+OpenWrt%22)    | [![Build Linksys WRT1900 OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20Linksys%20WRT1900%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+Linksys+WRT1900+OpenWrt%22) |
+| 24 |   [![](https://img.shields.io/badge/OpenWrt-友华WR1200JS-yellowgreen.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+%E5%8F%8B%E5%8D%8E+WR1200JS+OpenWrt%22)    | [![Build 友华 WR1200JS OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20%E5%8F%8B%E5%8D%8E%20WR1200JS%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+%E5%8F%8B%E5%8D%8E+WR1200JS+OpenWrt%22) |
 
 -- 关于自动编译固件的说明 [![](https://img.shields.io/badge/-自动编译说明-lightgrey.svg)](#自动编译说明-)
 -------------
@@ -125,6 +126,8 @@ Actions-OpenWrt — 多设备固件自动云编译 [![](https://img.shields.io/b
 -------------
 - 更新 P3TERX 大大的编译源码[![](https://img.shields.io/badge/P3TERX-源码-orange.svg)](https://github.com/P3TERX/Actions-OpenWrt)，解决编译提示 set-env 即将被禁用
 - 添加新设备 Netgear WNDR 3800 固件的编译
+- 添加新设备 Linksys WRT1900 固件的编译
+- 添加新设备 友华 WR1200JS 固件的编译
 
 赞助 [![](https://img.shields.io/badge/-赞助项目-green.svg)](#赞助项目-)
 ======================
