@@ -128,6 +128,7 @@ Actions-OpenWrt — 多设备固件自动云编译 [![](https://img.shields.io/b
 - 添加新设备 Netgear WNDR 3800 固件的编译
 - 添加新设备 Linksys WRT1900 固件的编译
 - 添加新设备 友华 WR1200JS 固件的编译
+- 添加新设备 NANO-PI R4S 固件的编译
 
 赞助 [![](https://img.shields.io/badge/-赞助项目-green.svg)](#赞助项目-)
 ======================
