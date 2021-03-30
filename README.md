@@ -112,6 +112,16 @@ Actions-OpenWrt — 多设备固件自动云编译 [![](https://img.shields.io/b
 | 24 |   [![](https://img.shields.io/badge/OpenWrt-友华WR1200JS-yellowgreen.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+%E5%8F%8B%E5%8D%8E+WR1200JS+OpenWrt%22)    | [![Build 友华 WR1200JS OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20%E5%8F%8B%E5%8D%8E%20WR1200JS%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+%E5%8F%8B%E5%8D%8E+WR1200JS+OpenWrt%22) |
 | 25 |   [![](https://img.shields.io/badge/OpenWrt-NANOPI-R4S-lightgrey.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+NanoPi-R4S+OpenWrt%22)| [![Build NanoPi-R4S OpenWrt](https://github.com/MrH723/Actions-OpenWrt/workflows/Build%20NanoPi-R4S%20OpenWrt/badge.svg)](https://github.com/MrH723/Actions-OpenWrt/actions?query=workflow%3A%22Build+NanoPi-R4S+OpenWrt%22) |
 
+-- 百度云盘下载 （测试）
+-------------
+
+链接: https://pan.baidu.com/s/1e89hoFkzR3kBsf7oHlTdKw 提取码: ctw4 
+
+-- 微软 OneDrive 下载地址 （测试）
+-------------
+
+https://losaiiis-my.sharepoint.com/:f:/g/personal/hzj_ouuo_ml/Eu2LuOIwJpBMrNQd7tst1hsBZj8SujgtZn_QjaXIT31y7Q?e=jDXq0x
+
 -- 关于自动编译固件的说明 [![](https://img.shields.io/badge/-自动编译说明-lightgrey.svg)](#自动编译说明-)
 -------------
 
