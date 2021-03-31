@@ -144,7 +144,15 @@ jobs:
         local_path: ${{ env.FIRMWARE }}/
         remote_path: ${{ env.DEVICE_NAME }}/
         clean: true
-
+    - name: Upload firmware to Baidu && MS Onedrive
+      uses: SamKirkland/FTP-Deploy-Action@4.0.0
+      with:
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: ${{ env.FIRMWARE }}/
+        server-dir: ${{ env.DEVICE_NAME }}/
+        
     - name: Upload firmware to cowtransfer
       id: cowtransfer
       if: steps.organize.outputs.status == 'success' && env.UPLOAD_COWTRANSFER == 'true' && !cancelled()
