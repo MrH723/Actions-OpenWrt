@@ -141,7 +141,7 @@ jobs:
         cos_bucket: ${{ secrets.COS_BUCKET }}
         cos_region: ${{ secrets.COS_REGION }}
         local_path: ${{ env.FIRMWARE }}/
-        remote_path: _NEO2/
+        remote_path: _NanoPi_NEO2/
         clean: true
     
     - name: Upload firmware to cowtransfer
