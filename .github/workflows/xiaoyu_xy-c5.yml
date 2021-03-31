@@ -144,7 +144,6 @@ jobs:
         local_path: ${{ env.FIRMWARE }}/
         remote_path: ${{ env.DEVICE_NAME }}/
         clean: true
-    
     - name: Upload firmware to Baidu && MS Onedrive
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
