@@ -19,7 +19,7 @@ on:
         required: true
         default: 'false'
   schedule:
-    - cron: 0 15 * * *
+    - cron: 0 9 * * *
 #  watch:
 #    types: started
 
