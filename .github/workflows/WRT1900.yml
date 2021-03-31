@@ -140,7 +140,7 @@ jobs:
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ${{ env.FIRMWARE }}/
-        server-dir: ${{ env.DEVICE_NAME }}/
+        server-dir: _Linksys_WRT1900/
     
     - name: Upload firmware to cowtransfer
       id: cowtransfer
