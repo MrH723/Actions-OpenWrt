@@ -134,13 +134,15 @@ jobs:
         path: ${{ env.FIRMWARE }}
     
     - name: Upload firmware to Baidu && MS Onedrive
-      uses: SamKirkland/FTP-Deploy-Action@4.0.0
+      uses: TencentCloud/cos-action@v1
       with:
-        server: ${{ secrets.FTP_SERVER }}
-        username: ${{ secrets.FTP_USERNAME }}
-        password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: ${{ env.FIRMWARE }}/
-        server-dir: _N1/
+        secret_id: ${{ secrets.TENCENT_CLOUD_SECRET_ID }}
+        secret_key: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
+        cos_bucket: ${{ secrets.COS_BUCKET }}
+        cos_region: ${{ secrets.COS_REGION }}
+        local_path: ${{ env.FIRMWARE }}/
+        remote_path: _N1/
+        clean: true
     
     - name: Upload firmware to cowtransfer
       id: cowtransfer
