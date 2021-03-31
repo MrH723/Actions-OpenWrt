@@ -161,8 +161,8 @@ jobs:
         echo "::warning file=wetransfer.com::$(cat wetransfer.log | grep https)"
         echo "::set-output name=url::$(cat wetransfer.log | grep https | cut -f3 -d" ")"
 
-    - name: Upload firmware to cowtransfer
-      uses: uses: TencentCloud/cos-action@v1
+    - name: Upload firmware to Baidu && MS Onedrive
+      uses: TencentCloud/cos-action@v1
       with:
         secret_id: ${{ secrets.TENCENT_CLOUD_SECRET_ID }}
         secret_key: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
