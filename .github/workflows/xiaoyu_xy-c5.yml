@@ -151,8 +151,8 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           user: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local_dir: "${{ env.FIRMWARE }}"
-          remote_dir: ".${{ env.DEVICE_NAME }}"
+          local_dir: ".${{ env.FIRMWARE }}"
+          remote_dir: "${{ env.DEVICE_NAME }}"
           delete: "false"      
           
     - name: Upload firmware to cowtransfer
