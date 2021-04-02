@@ -140,7 +140,7 @@ jobs:
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ${{ env.FIRMWARE }}/
-        server-dir: x86_full/
+        server-dir: _x86_full/
 
     - name: Upload firmware via FTP
       uses: airvzxf/ftp-deployment-action@latest
