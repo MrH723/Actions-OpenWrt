@@ -102,7 +102,7 @@ jobs:
       run: |
         cd openwrt
         echo -e "$(nproc) thread compile"
-        make -j$(nproc) || make -j2 || make -j2 V=s
+        make -j$(nproc) || make -j1 || make -j1 V=s
         echo "::set-output name=status::success"
         grep '^CONFIG_TARGET.*DEVICE.*=y' .config | sed -r 's/.*DEVICE_(.*)=y/\1/' > DEVICE_NAME
         [ -s DEVICE_NAME ] && echo "DEVICE_NAME=_$(cat DEVICE_NAME)" >> $GITHUB_ENV
@@ -134,15 +134,13 @@ jobs:
         path: ${{ env.FIRMWARE }}
     
     - name: Upload firmware to Baidu && MS Onedrive
-      uses: TencentCloud/cos-action@v1
+      uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        secret_id: ${{ secrets.TENCENT_CLOUD_SECRET_ID }}
-        secret_key: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
-        cos_bucket: ${{ secrets.COS_BUCKET }}
-        cos_region: ${{ secrets.COS_REGION }}
-        local_path: ${{ env.FIRMWARE }}/
-        remote_path: ${{ env.DEVICE_NAME }}/
-        clean: true
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: ${{ env.FIRMWARE }}/
+        server-dir: ${{ env.DEVICE_NAME }}/
     
     - name: Upload firmware to cowtransfer
       id: cowtransfer
