@@ -140,7 +140,7 @@ jobs:
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ${{ env.FIRMWARE }}/
-        server-dir: x86_simple/
+        server-dir: _x86_simple/
     
     - name: Upload firmware to cowtransfer
       id: cowtransfer
