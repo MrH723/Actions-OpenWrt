@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build XiaoYu XY-C5 OpenWrt
+name: Build Xiaomi AX3600 OpenWrt
 
 on:
   repository_dispatch:
