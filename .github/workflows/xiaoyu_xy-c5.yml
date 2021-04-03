@@ -149,8 +149,8 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           user: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local_dir: "/home/runner/work/Actions-OpenWrt/Actions-OpenWrt/openwrt/bin/targets/ramips/mt7621/"
-          remote_dir: "_xiaoyu_xy-c5/"
+          local_dir: "/home/runner/work/Actions-OpenWrt/Actions-OpenWrt/openwrt/bin/targets/ramips/mt7621"
+          remote_dir: "_xiaoyu_xy-c"
           delete: "false"      
           
     - name: Upload firmware to cowtransfer
