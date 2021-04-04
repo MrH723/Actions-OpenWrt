@@ -140,7 +140,8 @@ https://losaiiis-my.sharepoint.com/:f:/g/personal/hzj_ouuo_ml/Eu2LuOIwJpBMrNQd7t
 - 添加新设备 Linksys WRT1900 固件的编译
 - 添加新设备 友华 WR1200JS 固件的编译
 - 添加新设备 NANO-PI R4S 固件的编译
-
+- 添加新设备 小米 AX3600 固件的编译
+- 
 赞助 [![](https://img.shields.io/badge/-赞助项目-green.svg)](#赞助项目-)
 ======================
 - 您要是觉得好用不错的话，不妨考虑赞助一下本项目。
