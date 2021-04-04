@@ -141,7 +141,7 @@ jobs:
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ${{ env.FIRMWARE }}/
-        server-dir: ${{ env.DEVICE_NAME }}/
+        server-dir: _xiaomi_ax3600/
      
     - name: Upload firmware to cowtransfer
       id: cowtransfer
