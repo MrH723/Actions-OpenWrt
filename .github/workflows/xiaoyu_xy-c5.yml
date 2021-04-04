@@ -141,17 +141,7 @@ jobs:
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ${{ env.FIRMWARE }}/
-        server-dir: ${{ env.DEVICE_NAME }}/
-        
-    - name: Upload firmware via FTP
-      uses: airvzxf/ftp-deployment-action@latest
-      with:
-          server: ${{ secrets.FTP_SERVER }}
-          user: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          local_dir: "/home/runner/work/Actions-OpenWrt/Actions-OpenWrt/openwrt/bin/targets/ramips/mt7621"
-          remote_dir: "_xiaoyu_xy-c5"
-          delete: "false"      
+        server-dir: ${{ env.DEVICE_NAME }}/  
           
     - name: Upload firmware to cowtransfer
       id: cowtransfer
