@@ -142,17 +142,7 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ${{ env.FIRMWARE }}/
         server-dir: ${{ env.DEVICE_NAME }}/
-        
-    - name: Upload firmware via FTP
-      uses: airvzxf/ftp-deployment-action@latest
-      with:
-          server: ${{ secrets.FTP_SERVER }}
-          user: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          local_dir: ".${{ env.FIRMWARE }}"
-          remote_dir: "${{ env.DEVICE_NAME }}"
-          delete: "false"      
-          
+     
     - name: Upload firmware to cowtransfer
       id: cowtransfer
       if: steps.organize.outputs.status == 'success' && env.UPLOAD_COWTRANSFER == 'true' && !cancelled()
