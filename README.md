@@ -2,6 +2,12 @@
 ![GitHub forks](https://img.shields.io/github/forks/MrH723/Actions-OpenWrt?color=Blue&label=Fork&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/MrH723/Actions-OpenWrt?color=Blue&style=for-the-badge)
 
+重要说明：
+此库为多年前刚开始玩软路由的时候做的。纯属爱好。现在个人已经抛弃op
+转到爱快下。所以本库今后佛系更新。。并不提供任何支持。。
+建议大家使用 爱快+clash proxy的模式部署家庭网络就足够了。。旁路由什么的。玩了这么久。讲真没有什么大用。
+自己斟酌决定。
+感谢大家的支持。。
 
 <details>
 <summary>项目目录</summary>
